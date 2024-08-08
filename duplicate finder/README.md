@@ -16,7 +16,7 @@ This tool is designed to help you find duplicate records in a MySQL database. Yo
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/Python-tools.git
+   git clone https://github.com/smidaJaber/Python-tools.git
    cd Python-tools
    ```
 2. Install the required Python packages:
@@ -28,7 +28,7 @@ This tool is designed to help you find duplicate records in a MySQL database. Yo
 
 1. Run the script:
    ```bash
-   git clone https://github.com/yourusername/Python-tools.git
+   git clone https://github.com/smidaJaber/Python-tools.git
    cd Python-tools
    ```
 2. Follow the prompts to connect to your database and find duplicates
